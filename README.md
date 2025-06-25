@@ -31,7 +31,8 @@ resilient-webapp-aws/
 
 ## 📐 Architecture Diagram
 
-![Architecture](support-docs/architecture.png)
+![Architecture](support-docs/resilient-webapp%20diagram.png)
+
 
 
 ---
