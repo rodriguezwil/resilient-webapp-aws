@@ -29,12 +29,10 @@ resilient-webapp-aws/
 
 ---
 
-## 🖼️ Architecture Diagram
-
-> Exported from Cloudcraft  
-> 📌 This diagram helps visualize how the app is deployed on EC2 with security access to port 5000.
+## 📐 Architecture Diagram
 
 ![Architecture](support-docs/architecture.png)
+
 
 ---
 
