@@ -39,9 +39,36 @@ This project demonstrates how to deploy and support a Flask-based web applicatio
 
 ---
 
+---
+
 ## 🛠️ How to Reproduce This Project
+
+To try this project on your own EC2 instance:
 
 1. **SSH into your EC2 instance:**
 
 ```bash
 ssh -i "your-key.pem" ec2-user@<your-public-ip>
+
+cd resilient-webapp-aws/app
+
+pip3 install --user -r requirements.txt
+
+python3 app.py
+
+http://<your-public-ip>:5000/
+
+http://13.221.248.14:5000/
+
+🎯 Project Status
+✅ Live-tested and running on EC2
+✅ GitHub folder structure and documentation included
+✅ Diagram and deployment flow explained
+✅ Ready for recruiters, resumes, and technical portfolios
+
+👨‍💻 About the Author
+Wil Rodriguez
+Cloud & API Enthusiast | Technical PM | AWS Support Builder
+📁 GitHub
+🔗 LinkedIn
+
