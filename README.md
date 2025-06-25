@@ -24,6 +24,8 @@ resilient-webapp-aws/
 ├── support-docs/ → Architecture diagram, deployment notes
 │ └── architecture.png
 └── README.md → Project overview & guide
+
+
 ---
 
 ## 🖼️ Architecture Diagram
