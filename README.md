@@ -16,6 +16,7 @@ This project demonstrates how to deploy and support a Flask-based web applicatio
 ---
 
 ## 📁 Folder Structure
+
 resilient-webapp-aws/
 ├── app/ → Flask app & dependencies
 │ ├── app.py
