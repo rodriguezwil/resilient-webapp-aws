@@ -14,17 +14,7 @@ This project demonstrates how to deploy and support a Flask-based web applicatio
 - ✅ Project aligns with entry-level AWS Cloud, Tech Support, and Cloud Engineer roles
 
 ---
-## 📁 Folder Structure
-
-
-resilient-webapp-aws/
-├── app/ → Flask app & dependencies
-│ ├── app.py
-│ └── requirements.txt
-├── templates/ → (Optional) HTML templates
-├── support-docs/ → Architecture diagram, deployment notes
-│ └── resilient-webapp diagram.png
-└── README.md → Project overview & guide
+<pre> ## 📁 Folder Structure ``` resilient-webapp-aws/ ├── app/ → Flask app & dependencies │ ├── app.py │ └── requirements.txt ├── templates/ → (Optional) HTML templates ├── support-docs/ → Architecture diagram, deployment notes │ └── resilient-webapp diagram.png └── README.md → Project overview & guide ``` </pre>
 
 
 ---
