@@ -22,8 +22,8 @@ resilient-webapp-aws/
 │ └── requirements.txt
 ├── templates/ → (Optional) HTML templates
 ├── support-docs/ → Architecture diagram, deployment notes
-│ ├── architecture.png
-├── README.md → Project overview & guide
+│ └── architecture.png
+└── README.md → Project overview & guide
 
 ---
 
